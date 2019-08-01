@@ -3,4 +3,7 @@ This is some Python Code automating a web scraping tool called Beautiful Soup, s
 Based on the tutorial provided by Moondra:
 https://www.youtube.com/watch?v=MX33Yoa-EvE
 
-To use this script, clone "automatemysou.py
+## To use this script:
+ - clone "AutomateMySoup.py"
+ - navigate to the folder 
+ 
